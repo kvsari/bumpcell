@@ -1,0 +1,6 @@
+[package]
+name = "bumpcell"
+version = "0.0.0"
+authors = ["Stephan Luther <kvsari@gmail.com>"]
+
+[dependencies]
